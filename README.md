@@ -1,6 +1,9 @@
 ## Hi there 👋
 
- **My name is Rolands Prohorovs, I am an student at LAB University of Applied Sciences. I am learning programming and I will use this account for my studies.**
+  **My name is Rolands Prohorovs, and I’m from Latvia. I’ve just started studying at LAB University of Applied Sciences, where I’m learning programming. I’ll be using this account to save codes from my studies. Previously, I have been writing code.
+Here you can view one of my works: https://github.com/ro1ands/myapp**
+![Изображение WhatsApp 2024-08-27 в 09 55 24_458688ba](https://github.com/user-attachments/assets/99f1c058-d44a-4566-8e18-2fca1c16cd61)
+
 <!--
 **Rolands-Prohorovs/Rolands-Prohorovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

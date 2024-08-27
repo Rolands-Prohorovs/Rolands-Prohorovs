@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+##**My name is Rolands Prohorovs, I am an student at LAB University of Applied Sciences. I am learning programming and I will use this account for my studies.**
 <!--
 **Rolands-Prohorovs/Rolands-Prohorovs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

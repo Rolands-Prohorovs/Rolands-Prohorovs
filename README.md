@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  **My name is Rolands Prohorovs, and I’m from Latvia. I’ve just started studying at LAB University of Applied Sciences, where I’m learning programming. I’ll be using this account to save codes from my studies. Previously, I have been writing code using HTML, JavaScript, CSS and Phyton.
+  **My name is Rolands Prohorovs, and I’m from Latvia. I’ve just started studying at LAB University of Applied Sciences, where I’m learning programming. I’ll be using this account to save codes from my studies. Previously, I have been learning programming since 10 grade. In 10th grade I have been tought programming language Java, then in 11th grade I was learning  HTML, JavaScript, CSS and Phyton. I remember only basics from this languages but I am sure I will learn them perfectly in future. In 12th grade I learned php language. I remember some basics about it, I did some projects with it and now I use them to refresh my memory about this language.
 Here you can view one of my works: https://github.com/ro1ands/myapp**
 ![image](https://github.com/user-attachments/assets/fbfa4af5-e0ee-459f-a675-5627a068ac27)
 

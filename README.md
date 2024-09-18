@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  **My name is Rolands Prohorovs, and I’m from Latvia. I’ve just started studying at LAB University of Applied Sciences, where I’m learning programming. I’ll be using this account to save codes from my studies. Previously, I have been writing code.
+  **My name is Rolands Prohorovs, and I’m from Latvia. I’ve just started studying at LAB University of Applied Sciences, where I’m learning programming. I’ll be using this account to save codes from my studies. Previously, I have been writing code using HTML, JavaScript, CSS and Phyton.
 Here you can view one of my works: https://github.com/ro1ands/myapp**
 ![image](https://github.com/user-attachments/assets/fbfa4af5-e0ee-459f-a675-5627a068ac27)
 

@@ -1,8 +1,18 @@
 ## Hi there 👋
 
-  **My name is Rolands Prohorovs, and I’m from Latvia. I’ve just started studying at LAB University of Applied Sciences, where I’m learning programming. I’ll be using this account to save codes from my studies. Previously, I have been learning programming since 10 grade. In 10th grade I have been tought programming language Java, then in 11th grade I was learning  HTML, JavaScript, CSS and Phyton. I remember only basics from this languages but I am sure I will learn them perfectly in future. In 12th grade I learned php language. I remember some basics about it, I did some projects with it and now I use them to refresh my memory about this language.
-Here you can view one of my works: https://github.com/ro1ands/myapp**
-![image](https://github.com/user-attachments/assets/fbfa4af5-e0ee-459f-a675-5627a068ac27)
+  **Hi! My name is Rolands Prohorovs, and I’m from Latvia. I’m currently a second-year student at LAB University of Applied Sciences, where I study programming and software development.
+
+I first started learning programming in high school:
+ - 10th grade – learned the basics of Java.
+ - 11th grade – worked with HTML, CSS, JavaScript, and Python, creating small projects and practicing core concepts.
+ - 12th grade – studied PHP and developed a gym application as a final project, which used MySQL for data storage.
+
+At university, I’ve been building larger and more collaborative projects:
+ - User Story (Python) – a bigger university project in my first semester.
+ - Weekly Tasks – smaller programming exercises and practice projects.
+ - Kartano Museum Project (.NET MAUI, Unity, Team Project) – developed front-end pages for a museum application, later moved into exploring Unity for interactive features.
+ - Rakkaranta Electronics Project (IoT, React, Node.js, Azure) – built a moisture and temperature monitoring system using a Pico board and sensors. The project included a       Node.js backend and a React frontend, both deployed on Microsoft Azure.**
+
 
 
 <!--

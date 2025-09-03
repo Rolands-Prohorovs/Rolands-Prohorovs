@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  **Hi! My name is Rolands Prohorovs, and I’m from Latvia. I’m currently a second-year student at LAB University of Applied Sciences, where I study programming and software development.
+Hi! My name is Rolands Prohorovs, and I’m from Latvia. I’m currently a second-year student at LAB University of Applied Sciences, where I study programming and software development.
 
 I first started learning programming in high school:
  - 10th grade – learned the basics of Java.
@@ -11,7 +11,7 @@ At university, I’ve been building larger and more collaborative projects:
  - User Story (Python) – a bigger university project in my first semester.
  - Weekly Tasks – smaller programming exercises and practice projects.
  - Kartano Museum Project (.NET MAUI, Unity, Team Project) – developed front-end pages for a museum application, later moved into exploring Unity for interactive features.
- - Rakkaranta Electronics Project (IoT, React, Node.js, Azure) – built a moisture and temperature monitoring system using a Pico board and sensors. The project included a       Node.js backend and a React frontend, both deployed on Microsoft Azure.**
+ - Rakkaranta Electronics Project (IoT, React, Node.js, Azure) – built a moisture and temperature monitoring system using a Pico board and sensors. The project included a       Node.js backend and a React frontend, both deployed on Microsoft Azure.
 
 
 

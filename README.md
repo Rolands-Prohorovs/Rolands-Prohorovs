@@ -1,4 +1,4 @@
-##👋 Hi
+## 👋 Hi
 My name is Rolands Prohorovs, and I’m from Latvia.
 I’m currently a second-year student at LAB University of Applied Sciences, where I study Industrial Information Technology.
 
